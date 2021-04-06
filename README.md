@@ -27,9 +27,8 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 ## License
 
-![License](https://img.shields.io/badge/License-Made%20by%20Duhhvonte-orange)
+![License](https://img.shields.io/badge/License-Made%20by%20spacedel-orange)
 
 ## Info / Questions
 
-- [Devonte Letts](https://github.com/Duhhvonte)
-- devonte.letts@gmail.com
+- [Devonte Letts](https://github.com/spacedel)
